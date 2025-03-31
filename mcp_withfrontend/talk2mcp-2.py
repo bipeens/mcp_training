@@ -143,7 +143,8 @@ Examples:
 DO NOT include any explanations or additional text.
 Your entire response should be a single line starting with either FUNCTION_CALL: or FINAL_ANSWER:"""
 
-                query = """Find the ASCII values of characters in BIPEEN and then return sum of exponentials of those values and send the result to bipin151956@gmail.com."""
+                # query = """Find the ASCII values of characters in BIPEEN and then return sum of exponentials of those values and send the result to bipin151956@gmail.com."""
+                query = """Find the ASCII values of characters in BIPEEN and then return sum of exponentials of those values into the table in word document."""
                 print("Starting iteration loop...")
                 
                 # Use global iteration variables
